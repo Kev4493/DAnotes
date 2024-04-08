@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-2719c": {
+      "hosting": {
+        "da-keep": [
+          "danotes-2719c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-2719c"
+  }
+}
